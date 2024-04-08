@@ -171,138 +171,39 @@
 35.190.152.145,443,TRUE,ATL,US,North America,Atlanta,396982,GOOGLE-CLOUD-PLATFORM,383,13.2
 34.68.95.24,5001,TRUE,ORD,US,North America,Chicago,396982,GOOGLE-CLOUD-PLATFORM,237,9.49
 34.65.255.99,443,TRUE,FRA,DE,Europe,Frankfurt,396982,GOOGLE-CLOUD-PLATFORM,511,8.33
-34.32.230.130,443,TRUE,CDG,FR,Europe,Paris,396982,GOOGLE-CLOUD-PLATFORM,781,8.3
 34.118.105.75,443,TRUE,AMS,NL,Europe,Amsterdam,396982,GOOGLE-CLOUD-PLATFORM,844,8.05
 34.89.244.36,443,TRUE,FRA,DE,Europe,Frankfurt,396982,GOOGLE-CLOUD-PLATFORM,805,7.95
 34.65.12.30,443,TRUE,FRA,DE,Europe,Frankfurt,396982,GOOGLE-CLOUD-PLATFORM,871,7.94
-47.245.55.99,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",970,19.38
 47.245.9.228,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",990,19.28
-47.245.26.167,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",969,19.19
-47.245.42.210,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",1079,17.97
-47.245.15.236,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",953,17.73
-47.74.5.233,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",926,17.34
-47.245.37.94,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",933,16.97
 47.245.57.109,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",925,16.93
 47.245.59.133,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",1063,16.91
-47.74.26.131,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",951,16.83
-47.74.27.211,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",950,16.81
-47.245.15.207,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",935,16.69
 47.245.37.98,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",1077,16.57
-47.91.14.62,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",1070,16.53
-47.245.32.215,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",1065,16.51
 47.74.15.80,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",1063,16.51
-47.74.40.13,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",592,16.45
-47.91.23.146,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",1079,16.45
-47.91.22.115,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",1078,16.42
-47.245.37.37,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",1064,16.33
-47.74.13.66,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",1075,16.25
-47.245.11.118,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",949,16.23
-8.209.246.24,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",931,16.22
-47.245.52.240,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",960,16.22
-47.245.34.36,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",1354,16.16
-47.74.3.2,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",1078,16.13
-47.91.29.108,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",1069,16.13
-47.245.37.89,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",590,16.05
 47.245.29.64,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",954,16.01
 47.74.16.67,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",1353,16.01
-47.245.56.50,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",1066,15.98
-47.74.45.143,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",931,15.98
-47.91.3.112,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",959,15.97
-47.245.33.56,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",931,15.97
-47.245.33.158,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",1069,15.92
-8.209.215.247,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",1080,15.9
-47.74.41.136,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",937,15.88
-47.74.52.104,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",933,15.86
-47.245.33.163,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",1069,15.83
 47.74.13.94,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",950,15.82
 47.91.17.102,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",955,15.79
 47.91.21.107,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",943,15.77
-47.245.30.208,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",1050,15.67
-47.245.10.156,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",1058,15.65
-47.245.13.93,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",498,15.56
-47.74.27.94,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",1075,15.47
 47.245.2.231,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",1066,15.39
-47.245.11.216,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",1064,15.35
-47.245.55.235,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",945,15.22
-47.91.19.249,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",1078,15.18
 47.245.58.250,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",592,15.17
-8.209.252.13,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",1076,15.14
 47.74.34.38,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",1009,15.13
-47.245.11.108,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",933,15.02
-8.209.243.99,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",959,15.01
 47.74.39.194,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",928,15
-47.74.5.99,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",1356,14.98
-8.209.240.229,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",1076,14.83
-47.74.9.174,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",1078,14.77
 47.74.43.24,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",957,14.73
-47.245.10.77,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",965,14.72
-47.245.11.62,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",1068,14.71
-8.209.214.222,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",939,14.7
-47.245.28.255,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",1014,14.64
 47.91.3.87,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",957,14.48
 47.245.8.156,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",1012,14.21
-47.245.54.140,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",951,14.04
-47.74.49.62,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",1005,13.99
-47.91.2.165,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",1013,13.91
 47.91.31.231,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",1076,13.85
 47.245.41.169,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",922,13.73
-8.209.241.128,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",1080,13.69
-47.74.13.200,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",936,13.66
-47.245.59.243,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",1071,13.64
-47.245.10.123,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",1007,13.54
-8.209.200.73,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",936,13.54
-47.91.1.199,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",1019,13.47
-47.245.52.153,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",1079,13.32
-8.209.212.5,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",1074,13.23
 47.245.7.212,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",1067,13.05
-47.245.53.101,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",1076,13.05
 47.91.31.235,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",928,13.04
 47.245.37.12,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",921,13.04
-47.74.11.251,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",953,12.98
 47.74.34.162,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",920,12.97
-47.245.55.94,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",1013,12.65
 47.74.12.139,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",1060,12.64
-47.74.23.99,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",1064,12.62
 47.74.18.121,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",1353,12.46
 47.245.52.165,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",940,12.28
-47.74.11.9,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",1078,12.26
-47.74.27.151,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",923,12.18
-47.245.15.39,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",940,12.16
-47.245.3.137,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",1080,12.13
-47.91.3.179,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",988,12.12
-47.245.56.29,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",939,12.1
-47.91.25.66,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",593,12.08
 47.74.36.154,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",1067,12.01
 47.74.16.255,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",954,11.98
-47.245.58.175,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",951,11.79
-47.91.14.47,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",1060,11.45
-47.74.37.50,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",1077,11.44
-47.245.8.185,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",928,11.3
-47.245.54.58,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",1061,11.23
-47.74.5.150,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",935,11.19
 47.245.14.216,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",1078,11.05
-47.74.41.87,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",1071,10.94
 47.74.52.188,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",1065,10.82
-47.245.38.233,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",1074,10.75
-47.74.11.219,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",1063,10.74
-47.74.0.183,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",1077,10.64
-47.245.12.38,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",1078,10.51
-47.245.59.188,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",997,10.42
-47.91.21.127,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",1068,10.2
-47.74.6.16,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",1070,9.98
-47.74.34.73,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",1067,9.55
-47.74.22.171,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",937,9.08
-2.59.151.232,15110,TRUE,LAX,US,North America,Los Angeles,40065,CNSERVERS,194,68.89
-2.59.151.192,37405,TRUE,LAX,US,North America,Los Angeles,40065,CNSERVERS,202,66.29
-103.99.179.88,1001,TRUE,LAX,US,North America,Los Angeles,40065,CNSERVERS,193,64.13
-45.12.88.150,1443,TRUE,LAX,US,North America,Los Angeles,40065,CNSERVERS,161,60.13
-103.94.185.180,31005,TRUE,LAX,US,North America,Los Angeles,40065,CNSERVERS,195,57.19
-2.59.151.85,55425,TRUE,LAX,US,North America,Los Angeles,40065,CNSERVERS,200,50.28
-193.9.46.16,8443,TRUE,LAX,US,North America,Los Angeles,40065,CNSERVERS,170,42.79
-91.217.139.227,8443,TRUE,LAX,US,North America,Los Angeles,40065,CNSERVERS,202,40.29
-2.59.151.192,38135,TRUE,LAX,US,North America,Los Angeles,40065,CNSERVERS,200,39.84
-185.201.227.65,25727,TRUE,LAX,US,North America,Los Angeles,40065,CNSERVERS,229,35.71
-91.217.139.121,8443,TRUE,LAX,US,North America,Los Angeles,40065,CNSERVERS,169,11.68
 185.238.250.168,36545,TRUE,LAX,US,North America,Los Angeles,40065,CNSERVERS,221,9.19
 152.67.234.175,44333,TRUE,SJC,US,North America,San Jose,31898,ORACLE-BMC-31898,248,52.17
 165.1.68.91,9443,TRUE,SJC,US,North America,San Jose,31898,ORACLE-BMC-31898,116,28.61
@@ -393,5 +294,14 @@
 141.147.167.40,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,1109,10.94
 141.147.178.202,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,766,10.94
 52.13.18.181,8880,TRUE,SEA,US,North America,Seattle,16509,AMAZON-02,150,35.99
-54.65.210.183,31737,TRUE,NRT,JP,Asia Pacific,Tokyo,16509,AMAZON-02,373,18.79
 18.143.232.63,9999,TRUE,SIN,SG,Asia Pacific,Singapore,16509,AMAZON-02,541,10.27
+47.91.14.69,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",830,16.7
+47.245.56.207,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",907,16.54
+47.74.4.47,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",1029,15.23
+8.209.222.31,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",1075,14.82
+47.74.10.135,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",794,14.07
+47.74.34.135,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",782,13.96
+47.74.50.249,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",1078,13.12
+47.74.26.132,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",873,11.81
+47.74.46.84,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",1028,11.74
+47.91.18.207,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",787,9.08
