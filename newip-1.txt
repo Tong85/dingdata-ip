@@ -1,8 +1,5 @@
-129.146.84.236#US(www.85la.com)
 192.9.138.241#US(www.85la.com)
 129.153.165.237#US(www.85la.com)
-192.18.134.231#US(www.85la.com)
-35.236.55.171#US(www.85la.com)
 152.67.250.155#US(www.85la.com)
 35.199.27.229#US(www.85la.com)
 34.70.91.86#US(www.85la.com)
