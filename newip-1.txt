@@ -13,8 +13,6 @@
 34.85.181.206#US(www.85la.com)
 35.194.78.251#US(www.85la.com)
 47.251.74.226#US(www.85la.com)
-150.230.221.148#US(www.85la.com)
-140.83.61.244#AU(www.85la.com)
 34.81.35.248#US(www.85la.com)
 141.147.190.128#SE(www.85la.com)
 172.64.82.189#US(www.85la.com)
